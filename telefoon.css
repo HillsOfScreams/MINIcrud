@@ -1,0 +1,10 @@
+html{
+    
+    background:url(https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260) no-repeat;
+    height: 100%;
+    background-size: cover;
+}
+.telefoonBox{
+    width: 300px;
+    height: 150px;
+}

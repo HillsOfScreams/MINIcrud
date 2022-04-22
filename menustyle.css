@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand:400,500,700');
+.products {
+    display: grid;
+    row-gap: 2rem;
+    column-gap: 0.5rem;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    max-width: 1000px;
+    margin: 0 auto;
+  }
